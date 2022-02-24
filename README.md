@@ -1,16 +1,14 @@
-# reallife
+This is a weather mobile app that display a brief weather description on 
+the Home Screen of a list of Countries Capital Cities and when any of them 
+is clicked on they give detailed description on the weather based on the location(City).
 
-A new Flutter project.
+Package imported were http
+http is used to fetch data from web.
+openweathermap was used to fetch data
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+To use the app there must be internet connectivity
+and when connected you have the weather displayed.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Below is  the preview of the Weather mobile app
+![Weather](https://user-images.githubusercontent.com/56762506/155606002-3eb2bcd0-d070-4991-8ba6-47bb2adce922.gif)
