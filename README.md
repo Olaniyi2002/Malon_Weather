@@ -1,3 +1,5 @@
+# Weather App
+
 This is a weather mobile app that display a brief weather description on 
 the Home Screen of a list of Countries Capital Cities and when any of them 
 is clicked on they give detailed description on the weather based on the location(City).
